@@ -79,9 +79,9 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-01-07 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
-* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 6 | 🐛 5 | 🌐 Scala | 📅 2026-02-01 - Simple Gatling plugin for JDBC support.
+* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 6 | 🐛 5 | 🌐 Scala | 📅 2026-02-08 - Simple Gatling plugin for JDBC support.
 * [gatling-sql](https://github.com/tmcgrath/gatling-sql) ⭐ 6 | 🐛 2 | 🌐 Scala | 📅 2021-04-22 - Gatling extension for JDBC or Spark Thrift Server stress testing.
-* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 5 | 🐛 2 | 🌐 Scala | 📅 2026-02-01 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 5 | 🐛 2 | 🌐 Scala | 📅 2026-02-08 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
 * [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 4 | 🐛 3 | 🌐 Scala | 📅 2025-11-10 - Library with a bunch of useful functions that extend Gatling DSL.

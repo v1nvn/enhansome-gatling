@@ -231,7 +231,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-01T01:15:33Z",
+            "last_commit": "2026-02-08T01:25:29Z",
             "owner": "galax-io",
             "repo": "gatling-amqp-plugin",
             "stars": 5
@@ -244,7 +244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-02-01T02:49:39Z",
+            "last_commit": "2026-02-08T02:55:03Z",
             "owner": "galax-io",
             "repo": "gatling-jdbc-plugin",
             "stars": 6
@@ -683,10 +683,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:18:06.506Z",
+    "last_updated": "2026-02-08T04:37:18.796Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "source_repository": "v1nvn/enhansome-gatling",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Gatling with stars"
   }
 }
