@@ -40,7 +40,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,858 | 🐛 25 | 🌐 Scala | 📅 2026-02-08
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,859 | 🐛 25 | 🌐 Scala | 📅 2026-02-08
 
 ## Getting Started
 
@@ -85,7 +85,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
 * [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 4 | 🐛 3 | 🌐 Scala | 📅 2025-11-10 - Library with a bunch of useful functions that extend Gatling DSL.
-* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-02-08 - An SBT plugin to share common settings across Gatling's projects' builds.
+* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-02-09 - An SBT plugin to share common settings across Gatling's projects' builds.
 * [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2018-11-09 - JUnit wrapper around Gatling simulations.
 * [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) ⭐ 2 | 🐛 5 | 🌐 Scala | 📅 2021-02-16 - Support Neo4j Bolt protocol for Gatling.
 * [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
