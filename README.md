@@ -40,7 +40,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,862 | 🐛 25 | 🌐 Scala | 📅 2026-02-08
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,864 | 🐛 25 | 🌐 Scala | 📅 2026-02-08
 
 ## Getting Started
 
