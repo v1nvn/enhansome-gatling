@@ -40,7 +40,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,864 | 🐛 25 | 🌐 Scala | 📅 2026-02-13
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,863 | 🐛 25 | 🌐 Scala | 📅 2026-02-13
 
 ## Getting Started
 
@@ -79,9 +79,9 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-01-07 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
-* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 6 | 🐛 5 | 🌐 Scala | 📅 2026-02-10 - Simple Gatling plugin for JDBC support.
+* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 6 | 🐛 5 | 🌐 Scala | 📅 2026-02-15 - Simple Gatling plugin for JDBC support.
 * [gatling-sql](https://github.com/tmcgrath/gatling-sql) ⭐ 6 | 🐛 2 | 🌐 Scala | 📅 2021-04-22 - Gatling extension for JDBC or Spark Thrift Server stress testing.
-* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 5 | 🐛 2 | 🌐 Scala | 📅 2026-02-10 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 5 | 🐛 2 | 🌐 Scala | 📅 2026-02-15 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
 * [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 4 | 🐛 3 | 🌐 Scala | 📅 2026-02-10 - Library with a bunch of useful functions that extend Gatling DSL.
@@ -150,15 +150,15 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 6 | 📅 2026-01-21 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 6 | 📅 2026-02-14 - A curated list of testing resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 771 | 🐛 0 | 🌐 HTML | 📅 2026-01-21 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 742 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
-* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 110 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
+* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-01-03 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 231 | 🐛 0 | 📅 2025-12-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 232 | 🐛 0 | 📅 2025-12-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 149 | 🐛 0 | 📅 2025-12-01 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
