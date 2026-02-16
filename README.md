@@ -40,7 +40,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,863 | 🐛 25 | 🌐 Scala | 📅 2026-02-13
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,864 | 🐛 25 | 🌐 Scala | 📅 2026-02-13
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [gatling-dubbo](https://github.com/youzan/gatling-dubbo) ⭐ 153 | 🐛 4 | 🌐 Scala | 📅 2019-08-20 - A Gatling plugin for running load tests on Apache Dubbo.
 * [gatling-grpc](https://github.com/phiSgr/gatling-grpc) ⚠️ Archived - Gatling load test plugin for gRPC.
-* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 109 | 🐛 2 | 🌐 Scala | 📅 2026-02-08 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 109 | 🐛 2 | 🌐 Scala | 📅 2026-02-16 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-02-02 - Gatling Maven Extensions.
@@ -85,7 +85,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
 * [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 4 | 🐛 3 | 🌐 Scala | 📅 2026-02-10 - Library with a bunch of useful functions that extend Gatling DSL.
-* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-02-09 - An SBT plugin to share common settings across Gatling's projects' builds.
+* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 2 | 🌐 Scala | 📅 2026-02-16 - An SBT plugin to share common settings across Gatling's projects' builds.
 * [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2018-11-09 - JUnit wrapper around Gatling simulations.
 * [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) ⭐ 2 | 🐛 5 | 🌐 Scala | 📅 2021-02-16 - Support Neo4j Bolt protocol for Gatling.
 * [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
@@ -150,9 +150,9 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 6 | 📅 2026-02-14 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,201 | 🐛 2 | 📅 2026-02-15 - A curated list of testing resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 771 | 🐛 0 | 🌐 HTML | 📅 2026-01-21 - Open-source load testing and performance measurement tool, written in Java.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 742 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-01-03 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
