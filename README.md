@@ -40,7 +40,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,864 | 🐛 25 | 🌐 Scala | 📅 2026-02-13
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,864 | 🐛 25 | 🌐 Scala | 📅 2026-02-17
 
 ## Getting Started
 
@@ -100,7 +100,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Reporting
 
-* [gatling-report](https://github.com/nuxeo/gatling-report) ⭐ 124 | 🐛 14 | 🌐 Java | 📅 2024-10-10 - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+* [gatling-report](https://github.com/nuxeo/gatling-report) ⭐ 124 | 🐛 14 | 🌐 Java | 📅 2026-02-17 - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 * [gatling-elasticsearch](https://github.com/Amerousful/gatling-elasticsearch-logs) ⭐ 16 | 🐛 4 | 🌐 Scala | 📅 2026-01-07 - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 * [gatling2allure](https://github.com/biski/gatling2allure) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2024-12-10 - Convert Gatling log to Allure report.
 
@@ -150,7 +150,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,202 | 🐛 3 | 📅 2026-02-15 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,202 | 🐛 2 | 📅 2026-02-17 - A curated list of testing resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 771 | 🐛 0 | 🌐 HTML | 📅 2026-01-21 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-01-18 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-01-05 - Open-source scalable load testing framework written in Python.
