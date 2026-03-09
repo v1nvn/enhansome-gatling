@@ -75,7 +75,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) ⭐ 23 | 🐛 5 | 🌐 Scala | 📅 2023-04-16 - TCP extensions for Gatling.
 * [gatling-kafka](https://github.com/Amerousful/gatling-kafka) ⭐ 18 | 🐛 4 | 🌐 Scala | 📅 2026-01-23 - Gatling plugin for Kafka.
 * [gatling-thrift](https://github.com/3tty0n/gatling-thrift) ⚠️ Archived - Gatling third party plugin for Apache Thrift.
-* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 15 | 🐛 17 | 🌐 Scala | 📅 2026-03-07 - Plugin for support Kafka in Gatling.
+* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 15 | 🐛 15 | 🌐 Scala | 📅 2026-03-08 - Plugin for support Kafka in Gatling.
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-02-27 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
@@ -149,7 +149,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,310 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
+* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,311 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,216 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 775 | 🐛 1 | 🌐 HTML | 📅 2026-03-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
