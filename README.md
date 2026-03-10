@@ -70,7 +70,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 109 | 🐛 1 | 🌐 Scala | 📅 2026-03-01 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
-* [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-02-16 - Gatling Maven Extensions.
+* [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-03-09 - Gatling Maven Extensions.
 * [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) ⭐ 30 | 🐛 0 | 🌐 Groovy | 📅 2026-03-05 - Gatling plugin for Gradle.
 * [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) ⭐ 23 | 🐛 5 | 🌐 Scala | 📅 2023-04-16 - TCP extensions for Gatling.
 * [gatling-kafka](https://github.com/Amerousful/gatling-kafka) ⭐ 18 | 🐛 4 | 🌐 Scala | 📅 2026-01-23 - Gatling plugin for Kafka.
@@ -101,7 +101,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Reporting
 
 * [gatling-report](https://github.com/nuxeo/gatling-report) ⭐ 125 | 🐛 14 | 🌐 Java | 📅 2026-02-17 - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
-* [gatling-elasticsearch](https://github.com/Amerousful/gatling-elasticsearch-logs) ⭐ 16 | 🐛 4 | 🌐 Scala | 📅 2026-03-07 - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
+* [gatling-elasticsearch](https://github.com/Amerousful/gatling-elasticsearch-logs) ⭐ 16 | 🐛 4 | 🌐 Scala | 📅 2026-03-09 - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 * [gatling2allure](https://github.com/biski/gatling2allure) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2024-12-10 - Convert Gatling log to Allure report.
 
 ### Sandbox
@@ -150,9 +150,9 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Awesome Lists
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,311 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,216 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 775 | 🐛 1 | 🌐 HTML | 📅 2026-03-01 - Open-source load testing and performance measurement tool, written in Java.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,217 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 775 | 🐛 0 | 🌐 HTML | 📅 2026-03-09 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 5 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-03-01 - Open-source scalable load testing framework written in Python.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-03-05 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
