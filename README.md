@@ -25,6 +25,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
   * [Sandbox](#sandbox)
   * [Miscellaneous](#miscellaneous)
 * [CI](#ci)
+* [Test Management](#test-management)
 * [Trainings & Courses](#trainings--courses)
 * [Videos](#videos)
   * [Talks](#talks)
@@ -40,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,872 | 🐛 27 | 🌐 Scala | 📅 2026-02-27
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,872 | 🐛 27 | 🌐 Scala | 📅 2026-03-10
 
 ## Getting Started
 
@@ -113,16 +114,18 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [dakiya](https://github.com/rupeshmore/dakiya) ⭐ 37 | 🐛 3 | 🌐 JavaScript | 📅 2017-03-07 - Convert Postman collections to Gatling scripts.
 * [gatling-template.g8](https://github.com/galax-io/gatling-template.g8) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2026-02-10 - A Giter8 template for Gatling performance test project.
-* [gatling.g8](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 
 ## CI
 
 * [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) ⭐ 36 | 🐛 2 | 🌐 Java | 📅 2025-06-16 - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 * [run-gatling](https://github.com/liatrio/run-gatling) ⚠️ Archived - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
+## Test Management
+
+* [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
+
 ## Trainings & Courses
 
-* [Gatling Academy](https://academy.gatling.io/)
 * [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
 * [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
@@ -151,9 +154,9 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,311 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,217 | 🐛 1 | 📅 2026-03-05 - A curated list of testing resources.
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 775 | 🐛 0 | 🌐 HTML | 📅 2026-03-09 - Open-source load testing and performance measurement tool, written in Java.
-* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 5 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
-* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-03-01 - Open-source scalable load testing framework written in Python.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 776 | 🐛 0 | 🌐 HTML | 📅 2026-03-09 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 743 | 🐛 4 | 📅 2026-03-05 - Open-source, developer-centric performance monitoring and load testing solution.
+* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-03-10 - Open-source scalable load testing framework written in Python.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-03-05 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ### Other
